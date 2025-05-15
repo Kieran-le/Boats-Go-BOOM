@@ -2,6 +2,6 @@
 javascript game for Ms. Ong
 
 #Goals
--Make working Sprites
--3D (if allowed)
--Add AI
+Make working Sprites
+3D (if allowed)
+Add AI
